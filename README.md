@@ -1,2 +1,2 @@
 # ticmas
-Ticmas Academy Front-End 
+Ticmas Academy Front-End Final Proyect Integrator CV
